@@ -1938,3 +1938,1064 @@ The session
 	Asset Name: /Game/Sprites/Asset_Pack/_PNG/FOREST/SET1_Mainlev_build_TileSet
 [2023.11.03-02.29.16:132][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2023.11.03-02.29.16:298][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.03-02.35.54:936][248]LogSlate: Window 'Message' being destroyed
+[2023.11.03-02.35.54:943][248]Message dialog closed, result: Yes, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2023.11.03-02.35.57:768][248]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2023.11.03-02.35.58:293][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.35.58:332][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.35.58:390][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.03-02.35.58:400][298]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.35.58:400][298]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/ForestDA15E8474960F8E5F16AC0A9884D4251.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.35.58:415][298]LogFileHelpers: Saving map 'Forest' took 0.083
+[2023.11.03-02.35.58:423][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 983 ms)
+[2023.11.03-02.35.58:483][298]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.35.58:483][298]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.35.58:525][300]LogConcert: Display: Synced activity '37' produced by endpoint 'FAF7A65E42CC5FF07853F6851178393D': Tim saved package /Game/Forest.
+[2023.11.03-02.35.58:625][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.35.58:654][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.35.58:708][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.11.03-02.35.58:717][307]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.35.58:718][307]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/Forest742D82C84899B31DADB1F990C37B9E72.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.35.58:733][307]LogFileHelpers: Saving map 'Forest' took 0.079
+[2023.11.03-02.35.58:739][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.09 sec)
+[2023.11.03-02.35.58:741][307]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.35.58:741][307]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.35.58:799][311]LogConcert: Display: Synced activity '38' produced by endpoint 'FAF7A65E42CC5FF07853F6851178393D': Tim saved package /Game/Forest.
+[2023.11.03-02.35.59:049][337]LogConcertTakeRecorder: Display: Session Client Change: hunter Disconnected.
+[2023.11.03-02.35.59:070][337]LogConcert: Display: User 'hughe' (Endpoint: C22DAA3640E8CA112387A5A831C4C89D) left Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.35.59:070][337]LogConcert: Display: Synced activity '39' produced by endpoint 'C22DAA3640E8CA112387A5A831C4C89D': hunter left the session.
+[2023.11.03-02.36.00:000][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.36.00:050][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.36.00:119][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.03-02.36.00:130][436]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.36.00:131][436]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/ForestA67CD8E147567B66A0C2B4AFB3F9BB71.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.36.00:145][436]LogFileHelpers: Saving map 'Forest' took 0.096
+[2023.11.03-02.36.00:156][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1.25 sec)
+[2023.11.03-02.36.00:160][436]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.36.00:160][436]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.36.00:219][438]LogConcert: Display: Synced activity '40' produced by endpoint 'FAF7A65E42CC5FF07853F6851178393D': Tim saved package /Game/Forest.
+[2023.11.03-02.36.04:746][812]LogSlate: Window 'Message' being destroyed
+[2023.11.03-02.36.04:754][812]Message dialog closed, result: Yes, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2023.11.03-02.36.05:866][812]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2023.11.03-02.36.05:871][812]LogConcert: [Pending] Persisting Session Changes
+[2023.11.03-02.36.05:903][812]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2023.11.03-02.36.05:903][812]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2023.11.03-02.36.05:903][812]LogConcert: Display: Disconnected from Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.36.05:903][812]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: workin
+[2023.11.03-02.36.05:924][812]SourceControl: Revision control is disabled
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Engine/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ProjectAlpha/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ConcertSyncClient/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ObjectMixer/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/LightMixer/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MediaPlate/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/AnimationSharing/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MediaCompositing/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/WaveTable/' was aborted.
+[2023.11.03-02.36.05:938][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Synthesis/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/RigVM/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ResonanceAudio/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Metasound/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MeshModelingToolset/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryProcessing/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/AudioWidgets/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/AudioSynesthesia/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Runtime/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/UVEditor/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/SpeedTreeImporter/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ModelingToolsEditorMode/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryMode/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/BlueprintHeaderView/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Takes/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MultiUserTakes/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/SequencerScripting/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GLTFExporter/' was aborted.
+[2023.11.03-02.36.05:939][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/DatasmithContent/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/IKRig/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ControlRigSpline/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ControlRig/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Niagara/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ACLPlugin/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ToolPresets/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/PythonScriptPlugin/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MeshLODToolset/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryFlow/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/FullBodyIK/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Dataflow/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosSolverPlugin/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosNiagara/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosClothEditor/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosCaching/' was aborted.
+[2023.11.03-02.36.05:940][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Paper2D/' was aborted.
+[2023.11.03-02.36.05:941][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/TraceUtilities/' was aborted.
+[2023.11.03-02.36.05:941][812]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Bridge/' was aborted.
+[2023.11.03-02.36.05:953][812]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.06:004][812]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.06:004][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.06:004][812]MapCheck: New page: Map Check
+[2023.11.03-02.36.06:004][812]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.06:007][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.03-02.36.06:009][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.03-02.36.06:011][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.06:011][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.03-02.36.06:012][812]LogAIModule: Creating AISystem for world Untitled
+[2023.11.03-02.36.06:012][812]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.03-02.36.06:077][812]LoadErrors: New page: New Map
+[2023.11.03-02.36.06:081][812]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Sprites/Asset_Pack/_PNG/FOREST/SET1_Mainlev_build_TileSet
+[2023.11.03-02.36.06:085][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.03-02.36.06:239][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.03-02.36.06:242][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.06:244][812]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Forest.Forest
+[2023.11.03-02.36.06:245][812]Cmd: MAP LOAD FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.03-02.36.06:245][812]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.06:245][812]LoadErrors: New page: Loading map: Forest.umap
+[2023.11.03-02.36.06:299][812]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.06:299][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.06:299][812]MapCheck: New page: Map Check
+[2023.11.03-02.36.06:299][812]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.06:302][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.03-02.36.06:303][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.03-02.36.06:305][812]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.06:305][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.06:309][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.03-02.36.06:313][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.03-02.36.06:317][812]LogAudio: Display: Audio Device (ID: 1) registered with world 'Forest'.
+[2023.11.03-02.36.06:317][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.06:317][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.03-02.36.06:317][812]LogAIModule: Creating AISystem for world Forest
+[2023.11.03-02.36.06:366][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.03-02.36.06:374][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.03-02.36.06:389][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.03-02.36.06:389][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2023.11.03-02.36.06:405][812]LogConcert: Display: Shutdown Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.36.07:048][813]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2023.11.03-02.36.11:178][133]LogSlate: External Image Picker: DecompressImage failed
+[2023.11.03-02.36.24:573][579]LogUdpMessaging: Warning: Invalid UDP Messaging Endpoint ''
+[2023.11.03-02.36.24:573][579]LogUdpMessaging: Initializing bridge on interface 26.156.204.70:0 to multicast group 230.0.0.1:6666.
+[2023.11.03-02.36.24:573][579]LogUdpMessaging: Display: Added local interface '26.156.204.70' to multicast group '230.0.0.1:6666'
+[2023.11.03-02.36.27:680][769]LogUdpMessaging: Warning: Invalid UDP Messaging Endpoint '26.25.28.96'
+[2023.11.03-02.36.27:680][769]LogUdpMessaging: Initializing bridge on interface 26.156.204.70:0 to multicast group 230.0.0.1:6666.
+[2023.11.03-02.36.27:680][769]LogUdpMessaging: Display: Added local interface '26.156.204.70' to multicast group '230.0.0.1:6666'
+[2023.11.03-02.36.30:789][981]LogUdpMessaging: Warning: Invalid UDP Messaging Endpoint '26.25.28.96'
+[2023.11.03-02.36.30:789][981]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.11.03-02.36.30:792][981]LogUdpMessaging: Display: Added local interface '26.156.204.70' to multicast group '230.0.0.1:6666'
+[2023.11.03-02.36.30:792][981]LogUdpMessaging: Display: Added local interface '192.168.0.178' to multicast group '230.0.0.1:6666'
+[2023.11.03-02.36.32:210][ 86]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.03-02.36.32:221][ 86]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.03-02.36.36:798][548]LogConcert: Display: Server DESKTOP-VVU0RN9 lost.
+[2023.11.03-02.36.36:808][549]LogConcert: Display: Server DESKTOP-VVU0RN9 discovered.
+[2023.11.03-02.36.39:919][737]LogConcert: [Pending] Joining Session...
+[2023.11.03-02.36.39:919][737]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2023.11.03-02.36.39:940][738]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2023.11.03-02.36.40:235][743]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2023.11.03-02.36.40:265][744]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: workin
+[2023.11.03-02.36.40:295][744]SourceControl: Revision control is disabled
+[2023.11.03-02.36.40:295][744]SourceControl: Revision control is disabled
+[2023.11.03-02.36.40:295][744]LogConcert: Display: Initialized Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.36.40:295][744]LogConcert: Display: Connecting to Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.36.40:369][746]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: workin
+[2023.11.03-02.36.40:369][746]LogConcert: Display: Connected to Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.36.40:417][747]LogConcert: Display: Synced activity '41' produced by endpoint 'FAF7A65E42CC5FF07853F6851178393D': Tim left the session.
+[2023.11.03-02.36.40:417][747]LogConcert: Display: Synced activity '42' produced by endpoint 'FD15D06347F190F6BC3318918D2DC9CD': hunter joined the session.
+[2023.11.03-02.36.40:417][747]LogConcert: Display: Synced activity '43' produced by endpoint 'FD15D06347F190F6BC3318918D2DC9CD': hunter left the session.
+[2023.11.03-02.36.40:417][747]LogConcert: Display: Synced activity '44' produced by endpoint 'FDC511E443E754C1E9BE6E9CA779844C': Tim joined the session.
+[2023.11.03-02.36.40:443][747]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.40:492][747]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.40:492][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.40:493][747]MapCheck: New page: Map Check
+[2023.11.03-02.36.40:493][747]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.40:496][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.03-02.36.40:498][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.03-02.36.40:501][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.40:501][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.03-02.36.40:501][747]LogAIModule: Creating AISystem for world Untitled
+[2023.11.03-02.36.40:502][747]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.03-02.36.40:536][747]LoadErrors: New page: New Map
+[2023.11.03-02.36.40:539][747]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Sprites/Asset_Pack/_PNG/FOREST/SET1_Mainlev_build_TileSet
+[2023.11.03-02.36.40:543][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.03-02.36.40:689][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.03-02.36.40:693][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.40:695][747]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Forest.Forest
+[2023.11.03-02.36.40:696][747]Cmd: MAP LOAD FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.03-02.36.40:696][747]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.40:696][747]LoadErrors: New page: Loading map: Forest.umap
+[2023.11.03-02.36.40:742][747]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.40:742][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.40:743][747]MapCheck: New page: Map Check
+[2023.11.03-02.36.40:743][747]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.40:746][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.03-02.36.40:748][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.03-02.36.40:750][747]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.40:750][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.40:755][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.11.03-02.36.40:759][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.03-02.36.40:762][747]LogAudio: Display: Audio Device (ID: 1) registered with world 'Forest'.
+[2023.11.03-02.36.40:762][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.40:762][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.03-02.36.40:762][747]LogAIModule: Creating AISystem for world Forest
+[2023.11.03-02.36.40:791][747]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.03-02.36.40:797][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.03-02.36.40:810][747]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.03-02.36.40:810][747]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.26ms to complete.
+[2023.11.03-02.36.40:889][748]LogConcert: [Success] Joined Session 'workin'
+[2023.11.03-02.36.40:964][749]LogConcert: [Success] Joined Session 'workin'
+[2023.11.03-02.36.46:148][120]LogSlate: Window 'Message' being destroyed
+[2023.11.03-02.36.46:156][120]Message dialog closed, result: Yes, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2023.11.03-02.36.47:221][120]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2023.11.03-02.36.47:231][120]LogConcert: [Pending] Persisting Session Changes
+[2023.11.03-02.36.47:231][120]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2023.11.03-02.36.47:231][120]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2023.11.03-02.36.47:259][120]LogConcert: Display: Disconnected from Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.36.47:259][120]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: workin
+[2023.11.03-02.36.47:260][120]SourceControl: Revision control is disabled
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Engine/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ProjectAlpha/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ConcertSyncClient/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ObjectMixer/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/LightMixer/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MediaPlate/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/AnimationSharing/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MediaCompositing/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/WaveTable/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Synthesis/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/RigVM/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ResonanceAudio/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Metasound/' was aborted.
+[2023.11.03-02.36.47:270][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MeshModelingToolset/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryProcessing/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/AudioWidgets/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/AudioSynesthesia/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Runtime/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/UVEditor/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/SpeedTreeImporter/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ModelingToolsEditorMode/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryMode/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/BlueprintHeaderView/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Takes/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MultiUserTakes/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/SequencerScripting/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GLTFExporter/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/DatasmithContent/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/IKRig/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ControlRigSpline/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ControlRig/' was aborted.
+[2023.11.03-02.36.47:271][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Niagara/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ACLPlugin/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ToolPresets/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/PythonScriptPlugin/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MeshLODToolset/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryFlow/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/FullBodyIK/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Dataflow/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosSolverPlugin/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosNiagara/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosClothEditor/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/ChaosCaching/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Paper2D/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/TraceUtilities/' was aborted.
+[2023.11.03-02.36.47:272][120]LogDirectoryWatcher: A directory notification for 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/Concert/MultiUser/6F2055564CB5683944E455AAD3A90D40/1076B3D742D471A9F3B07181A5FCED79/Sandbox/Bridge/' was aborted.
+[2023.11.03-02.36.47:283][120]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.47:333][120]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.47:333][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.47:333][120]MapCheck: New page: Map Check
+[2023.11.03-02.36.47:333][120]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.47:336][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.03-02.36.47:337][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.03-02.36.47:341][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.47:342][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.03-02.36.47:342][120]LogAIModule: Creating AISystem for world Untitled
+[2023.11.03-02.36.47:342][120]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.11.03-02.36.47:395][120]LoadErrors: New page: New Map
+[2023.11.03-02.36.47:397][120]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Sprites/Asset_Pack/_PNG/FOREST/SET1_Mainlev_build_TileSet
+[2023.11.03-02.36.47:401][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.03-02.36.47:551][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.03-02.36.47:556][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.47:558][120]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Forest.Forest
+[2023.11.03-02.36.47:558][120]Cmd: MAP LOAD FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.03-02.36.47:558][120]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.47:558][120]LoadErrors: New page: Loading map: Forest.umap
+[2023.11.03-02.36.47:606][120]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.47:606][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.47:606][120]MapCheck: New page: Map Check
+[2023.11.03-02.36.47:607][120]LightingResults: New page: Lighting Build
+[2023.11.03-02.36.47:610][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.03-02.36.47:611][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.03-02.36.47:613][120]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.36.47:613][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.36.47:618][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.03-02.36.47:622][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.11.03-02.36.47:626][120]LogAudio: Display: Audio Device (ID: 1) registered with world 'Forest'.
+[2023.11.03-02.36.47:626][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.03-02.36.47:626][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.03-02.36.47:626][120]LogAIModule: Creating AISystem for world Forest
+[2023.11.03-02.36.47:671][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.03-02.36.47:678][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.03-02.36.47:691][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.03-02.36.47:691][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2023.11.03-02.36.47:704][120]LogConcert: Display: Shutdown Concert session 'workin' (Id: 1076B3D742D471A9F3B07181A5FCED79, Owner: Miteuk).
+[2023.11.03-02.36.48:347][121]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2023.11.03-02.36.48:372][122]LogConcert: Display: Server DESKTOP-VVU0RN9 lost.
+[2023.11.03-02.36.48:474][123]LogConcert: Display: Server DESKTOP-VVU0RN9 discovered.
+[2023.11.03-02.36.53:181][482]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2023.11.03-02.36.53:191][482]Message dialog closed, result: Yes, title: Delete Session Confirmation, text: Do you really want to delete 1 session from 1 server?
+
+The session 
+	- workin
+ will be deleted from the server DESKTOP-VVU0RN9.
+[2023.11.03-02.36.53:191][482]LogConcert: [Pending] Deleting Session...
+[2023.11.03-02.36.53:219][483]LogConcert: [Pending] Deleting Session...
+[2023.11.03-02.36.53:823][507]LogConcert: [Success] Deleted Session 'workin'
+[2023.11.03-02.36.53:835][507]LogConcert: [Success] Deleted Session 'workin'
+[2023.11.03-02.37.00:466][811]LogConcert: Display: Server BUNBUNSTREASURE discovered.
+[2023.11.03-02.37.07:798][936]LogConcert: Display: Server BUNBUNSTREASURE lost.
+[2023.11.03-02.38.18:559][223]LogConcert: Display: Server BUNBUNSTREASURE discovered.
+[2023.11.03-02.38.25:894][245]LogConcert: Display: Server BUNBUNSTREASURE lost.
+[2023.11.03-02.39.22:266][609]LogSlate: External Image Picker: DecompressImage failed
+[2023.11.03-02.40.12:199][193]LogConcert: Display: Server BUNBUNSTREASURE discovered.
+[2023.11.03-02.40.18:865][213]LogConcert: Display: Server BUNBUNSTREASURE lost.
+[2023.11.03-02.45.44:483][189]LogDerivedDataCache: C:/Users/Timot/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.161 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5663 files in 6912 folders with total size 114 MiB.
+[2023.11.03-02.45.46:878][197]LogConcert: Display: Server BUNBUNSTREASURE discovered.
+[2023.11.03-02.45.53:881][218]LogConcert: Display: Server BUNBUNSTREASURE lost.
+[2023.11.03-02.46.29:005][934]LogUdpMessaging: Warning: Invalid UDP Messaging Endpoint '26.25.28.96'
+[2023.11.03-02.46.29:005][934]LogUdpMessaging: Initializing bridge on interface 26.156.204.70:0 to multicast group 230.0.0.1:6666.
+[2023.11.03-02.46.29:005][934]LogUdpMessaging: Display: Added local interface '26.156.204.70' to multicast group '230.0.0.1:6666'
+[2023.11.03-02.46.30:112][961]LogUdpMessaging: Initializing bridge on interface 26.156.204.70:0 to multicast group 230.0.0.1:6666.
+[2023.11.03-02.46.30:112][961]LogUdpMessaging: Display: Added local interface '26.156.204.70' to multicast group '230.0.0.1:6666'
+[2023.11.03-02.46.32:467][137]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.03-02.46.32:476][137]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.03-02.46.33:175][203]LogConcert: Display: Server DESKTOP-VVU0RN9 lost.
+[2023.11.03-02.46.33:187][204]LogConcert: Display: Server DESKTOP-VVU0RN9 discovered.
+[2023.11.03-02.46.35:946][484]LogConcert: [Pending] Creating Session 'asdf'...
+[2023.11.03-02.46.35:946][484]LogConcert: [Pending] Creating Session 'asdf'... - Validating Workspace...
+[2023.11.03-02.46.35:966][485]LogConcert: [Pending] Creating Session 'asdf'... - Validating Workspace...
+[2023.11.03-02.46.36:274][490]LogConcert: [Pending] Creating Session 'asdf'... - Attempting Remote Connection...
+[2023.11.03-02.46.36:388][494]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: asdf
+[2023.11.03-02.46.36:412][494]SourceControl: Revision control is disabled
+[2023.11.03-02.46.36:412][494]SourceControl: Revision control is disabled
+[2023.11.03-02.46.36:412][494]LogConcert: Display: Initialized Concert session 'asdf' (Id: BB8853BB4CB9ED24BBF306BF849E71B0, Owner: Miteuk).
+[2023.11.03-02.46.36:412][494]LogConcert: Display: Connecting to Concert session 'asdf' (Id: BB8853BB4CB9ED24BBF306BF849E71B0, Owner: Miteuk).
+[2023.11.03-02.46.36:483][496]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: asdf
+[2023.11.03-02.46.36:483][496]LogConcert: Display: Connected to Concert session 'asdf' (Id: BB8853BB4CB9ED24BBF306BF849E71B0, Owner: Miteuk).
+[2023.11.03-02.46.36:495][497]LogConcert: Display: Synced activity '1' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim joined the session.
+[2023.11.03-02.46.36:563][503]LogConcert: [Success] Created Session 'asdf'
+[2023.11.03-02.46.36:584][504]LogConcert: [Success] Created Session 'asdf'
+[2023.11.03-02.50.03:332][902]LogSlate: Window 'Multi-User Browser' being destroyed
+[2023.11.03-02.50.03:338][902]LogSlate: Window 'Multi-User Browser' being destroyed
+[2023.11.03-02.50.04:257][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.04:292][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.04:341][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.03-02.50.04:353][ 11]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.04:358][ 11]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/ForestE1D279384CD31E5A89952BA8E44C7AF1.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.04:371][ 11]LogFileHelpers: Saving map 'Forest' took 0.080
+[2023.11.03-02.50.04:377][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.37 sec)
+[2023.11.03-02.50.04:379][ 11]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.04:379][ 11]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.04:403][ 13]LogConcert: Display: Synced activity '2' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.04:467][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.04:499][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.04:546][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.03-02.50.04:555][ 20]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.04:556][ 20]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/Forest728BE91849CF7D29DB0008B44250CFD6.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.04:569][ 20]LogFileHelpers: Saving map 'Forest' took 0.071
+[2023.11.03-02.50.04:578][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.48 sec)
+[2023.11.03-02.50.04:595][ 20]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.04:595][ 20]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.04:622][ 22]LogConcert: Display: Synced activity '3' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.04:647][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.04:680][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.04:733][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.11.03-02.50.04:741][ 24]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.04:742][ 24]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/ForestFCB6D2E946F82749FD432AA613DC17E0.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.04:755][ 24]LogFileHelpers: Saving map 'Forest' took 0.076
+[2023.11.03-02.50.04:762][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.59 sec)
+[2023.11.03-02.50.04:764][ 24]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.04:764][ 24]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.04:790][ 26]LogConcert: Display: Synced activity '4' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.04:821][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.04:853][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.04:901][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.11.03-02.50.04:909][ 29]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.04:910][ 29]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/ForestF7A331244C32A7C27A432AB85684C98F.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.04:923][ 29]LogFileHelpers: Saving map 'Forest' took 0.071
+[2023.11.03-02.50.04:930][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.70 sec)
+[2023.11.03-02.50.04:932][ 29]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.04:932][ 29]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.04:955][ 31]LogConcert: Display: Synced activity '5' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.04:978][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.05:011][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.05:059][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.03-02.50.05:068][ 33]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.05:068][ 33]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/Forest4F6C9CA7477ACC8E7F04DCBBA345462E.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.05:081][ 33]LogFileHelpers: Saving map 'Forest' took 0.071
+[2023.11.03-02.50.05:088][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.81 sec)
+[2023.11.03-02.50.05:089][ 33]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.05:089][ 33]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.05:111][ 35]LogConcert: Display: Synced activity '6' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.05:176][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.05:206][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.05:256][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.03-02.50.05:265][ 42]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.05:265][ 42]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/Forest3436B4D24B52C4F36BE8CF8F19D8DB43.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.05:277][ 42]LogFileHelpers: Saving map 'Forest' took 0.072
+[2023.11.03-02.50.05:285][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.92 sec)
+[2023.11.03-02.50.05:286][ 42]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.05:286][ 42]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.05:309][ 44]LogConcert: Display: Synced activity '7' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.05:354][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.05:388][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.05:438][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.03-02.50.05:448][ 48]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.05:448][ 48]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/Forest578AC92F48198307C42FB4B0457F030E.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.05:461][ 48]LogFileHelpers: Saving map 'Forest' took 0.073
+[2023.11.03-02.50.05:467][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.03 sec)
+[2023.11.03-02.50.05:469][ 48]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.05:469][ 48]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.05:494][ 50]LogConcert: Display: Synced activity '8' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.05:892][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.05:934][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.05:990][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.11.03-02.50.05:999][ 96]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.06:000][ 96]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/ForestDBCCE5744703A0F888CA67B30BCCC6BE.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.06:015][ 96]LogFileHelpers: Saving map 'Forest' took 0.081
+[2023.11.03-02.50.06:023][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 2.17 sec)
+[2023.11.03-02.50.06:028][ 96]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.06:028][ 96]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.06:053][ 98]LogConcert: Display: Synced activity '9' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.07:192][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.07:228][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.07:278][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.11.03-02.50.07:287][229]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.07:288][229]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/Forest60743C2A4F6EF65468A497B67A77D8CC.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.07:300][229]LogFileHelpers: Saving map 'Forest' took 0.072
+[2023.11.03-02.50.07:306][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 2.28 sec)
+[2023.11.03-02.50.07:306][229]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.07:306][229]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.07:333][231]LogConcert: Display: Synced activity '10' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.07:423][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.03-02.50.07:461][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.03-02.50.07:508][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.11.03-02.50.07:518][241]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.11.03-02.50.07:519][241]LogSavePackage: Moving 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Saved/ForestF29C211B48DA44DA5A719194D59EBA02.tmp' to 'C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Content/Forest.umap'
+[2023.11.03-02.50.07:532][241]LogFileHelpers: Saving map 'Forest' took 0.072
+[2023.11.03-02.50.07:538][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.40 sec)
+[2023.11.03-02.50.07:540][241]AssetCheck: New page: Asset Save: Forest
+[2023.11.03-02.50.07:540][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.11.03-02.50.07:566][243]LogConcert: Display: Synced activity '11' produced by endpoint '1B9052184304A622E7174ABB101B70E4': Tim saved package /Game/Forest.
+[2023.11.03-02.50.08:910][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.03-02.50.08:935][396]LogStall: Shutdown...
+[2023.11.03-02.50.08:941][396]LogStall: Shutdown complete.
+[2023.11.03-02.50.09:203][396]LogSlate: Window 'ProjectAlpha - Unreal Editor' being destroyed
+[2023.11.03-02.50.09:601][397]Cmd: QUIT_EDITOR
+[2023.11.03-02.50.09:601][397]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.11.03-02.50.09:639][397]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.03-02.50.09:678][397]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.11.03-02.50.09:678][397]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.11.03-02.50.09:711][397]LogWorld: UWorld::CleanupWorld for Forest, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.50.09:711][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.03-02.50.09:963][397]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.11.03-02.50.10:349][397]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.11.03-02.50.10:349][397]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.11.03-02.50.10:349][397]LogAudio: Display: Audio Device unregistered from world 'Forest'.
+[2023.11.03-02.50.10:349][397]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.11.03-02.50.10:392][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.03-02.50.10:395][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.03-02.50.10:417][397]LogAudio: Display: Audio Device Manager Shutdown
+[2023.11.03-02.50.10:418][397]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.11.03-02.50.10:467][397]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.11.03-02.50.10:526][397]LogExit: Preparing to exit.
+[2023.11.03-02.50.11:135][397]LogConcert: Display: Disconnected from Concert session 'asdf' (Id: BB8853BB4CB9ED24BBF306BF849E71B0, Owner: Miteuk).
+[2023.11.03-02.50.11:135][397]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: asdf
+[2023.11.03-02.50.11:135][397]SourceControl: Revision control is disabled
+[2023.11.03-02.50.11:146][397]LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches C:/Users/Timot/Documents/Unreal Projects/ProjectAlpha/Intermediate/CachedAssetRegistry_*.bin.
+[2023.11.03-02.50.11:161][397]LogConcert: Display: Shutdown Concert session 'asdf' (Id: BB8853BB4CB9ED24BBF306BF849E71B0, Owner: Miteuk).
+[2023.11.03-02.50.11:849][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.03-02.50.12:768][397]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.11.03-02.50.13:502][397]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.11.03-02.50.13:760][397]LogExit: Editor shut down
+[2023.11.03-02.50.14:033][397]LogExit: Transaction tracking system shut down
+[2023.11.03-02.50.17:723][397]LogExit: Object subsystem successfully closed.
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: ================================================
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Total job queries 3,744, among them cache hits 28 (0.75%)
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Tracking 3,712 distinct input hashes that result in 2,675 distinct outputs (72.06%)
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: RAM used: 68.67 MiB of 819.20 MiB budget. Usage: 8.38%
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Shaders Compiled: 3,712
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Jobs assigned 3,712, completed 3,712 (100%)
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Average time worker was idle: 9.42 s
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Time job spent in pending queue: average 89.77 s, longest 180.93 s
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Job execution time: average 4.00 s, max 31.03 s
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Job life time (pending + execution): average 93.77 s, max 185.68
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Shader code size: average 38.228 KiB, min 2.086 KiB, max 162.84 KiB
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 202.40 s
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Jobs were issued in 466 batches (only local compilation was used), average 7.97 jobs/batch
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Average processing rate: 18.34 jobs/sec
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Total thread time: 1,377.012 s
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Total thread preprocess time: 90.482 s
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Percentage time preprocessing: 6.57%
+[2023.11.03-02.50.17:733][397]LogShaderCompilers: Display: Effective parallelization: 6.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.21 sec, max 9.40 sec, min 1.73 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.05 sec, max 6.61 sec, min 3.48 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.68 sec, max 3.26 sec, min 0.93 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 1.47 sec, max 2.11 sec, min 1.07 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:             TSlateElementPSGrayscaleFontfalsetruefalsefalseA (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                             FDeferredLightPS - 14.26% of total time (compiled  134 times, average 1.47 sec, max 2.11 sec, min 1.07 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.70% of total time (compiled   96 times, average 0.82 sec, max 1.45 sec, min 0.47 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.67% of total time (compiled   96 times, average 0.67 sec, max 1.36 sec, min 0.16 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.50% of total time (compiled  128 times, average 0.48 sec, max 1.21 sec, min 0.13 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.05% of total time (compiled  128 times, average 0.44 sec, max 0.61 sec, min 0.28 sec)
+[2023.11.03-02.50.17:735][397]LogShaderCompilers: Display: ================================================
+[2023.11.03-02.50.17:766][397]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.11.03-02.50.18:004][397]LogVirtualization: UE::Virtualization was shutdown
+[2023.11.03-02.50.19:521][397]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1072)
+[2023.11.03-02.50.19:521][397]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1070)
+[2023.11.03-02.50.19:521][397]LogModuleManager: Shutting down and abandoning module SceneOutliner (1068)
+[2023.11.03-02.50.19:537][397]LogModuleManager: Shutting down and abandoning module AddContentDialog (1066)
+[2023.11.03-02.50.19:553][397]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1065)
+[2023.11.03-02.50.19:553][397]LogModuleManager: Shutting down and abandoning module StatusBar (1062)
+[2023.11.03-02.50.19:553][397]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1060)
+[2023.11.03-02.50.19:553][397]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1058)
+[2023.11.03-02.50.19:568][397]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1056)
+[2023.11.03-02.50.19:568][397]LogModuleManager: Shutting down and abandoning module StatsViewer (1054)
+[2023.11.03-02.50.19:583][397]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1052)
+[2023.11.03-02.50.19:583][397]LogModuleManager: Shutting down and abandoning module AutomationWorker (1050)
+[2023.11.03-02.50.19:583][397]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1048)
+[2023.11.03-02.50.19:583][397]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1046)
+[2023.11.03-02.50.19:583][397]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1044)
+[2023.11.03-02.50.19:583][397]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1042)
+[2023.11.03-02.50.19:583][397]LogModuleManager: Shutting down and abandoning module WebMMedia (1040)
+[2023.11.03-02.50.19:600][397]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1038)
+[2023.11.03-02.50.19:600][397]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1036)
+[2023.11.03-02.50.19:616][397]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1035)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1032)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1030)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1028)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1026)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1024)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1022)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (1020)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1018)
+[2023.11.03-02.50.19:630][397]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1016)
+[2023.11.03-02.50.19:652][397]LogModuleManager: Shutting down and abandoning module RigVMEditor (1014)
+[2023.11.03-02.50.19:663][397]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1012)
+[2023.11.03-02.50.19:663][397]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1010)
+[2023.11.03-02.50.19:663][397]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1008)
+[2023.11.03-02.50.19:663][397]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1006)
+[2023.11.03-02.50.19:663][397]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1004)
+[2023.11.03-02.50.19:665][397]LogModuleManager: Shutting down and abandoning module BspMode (1002)
+[2023.11.03-02.50.19:665][397]LogModuleManager: Shutting down and abandoning module GeometryMode (1000)
+[2023.11.03-02.50.19:665][397]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (998)
+[2023.11.03-02.50.19:665][397]LogModuleManager: Shutting down and abandoning module ConcertTakeRecorder (996)
+[2023.11.03-02.50.19:684][397]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (994)
+[2023.11.03-02.50.19:684][397]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (992)
+[2023.11.03-02.50.19:700][397]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (990)
+[2023.11.03-02.50.19:700][397]LogModuleManager: Shutting down and abandoning module IKRigEditor (988)
+[2023.11.03-02.50.19:700][397]LogModuleManager: Shutting down and abandoning module ControlRigEditor (986)
+[2023.11.03-02.50.19:712][397]LogModuleManager: Shutting down and abandoning module PlanarCut (984)
+[2023.11.03-02.50.19:712][397]LogModuleManager: Shutting down and abandoning module FractureEngine (982)
+[2023.11.03-02.50.19:712][397]LogModuleManager: Shutting down and abandoning module CharacterAI (980)
+[2023.11.03-02.50.19:712][397]LogModuleManager: Shutting down and abandoning module SmartSnapping (978)
+[2023.11.03-02.50.19:712][397]LogModuleManager: Shutting down and abandoning module SessionServices (976)
+[2023.11.03-02.50.19:713][397]LogModuleManager: Shutting down and abandoning module MeshPaint (974)
+[2023.11.03-02.50.19:714][397]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (972)
+[2023.11.03-02.50.19:714][397]LogModuleManager: Shutting down and abandoning module PlacementMode (971)
+[2023.11.03-02.50.19:714][397]LogModuleManager: Shutting down and abandoning module FoliageEdit (968)
+[2023.11.03-02.50.19:761][397]LogModuleManager: Shutting down and abandoning module LandscapeEditor (966)
+[2023.11.03-02.50.19:761][397]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (964)
+[2023.11.03-02.50.19:777][397]LogModuleManager: Shutting down and abandoning module ActorPickerMode (962)
+[2023.11.03-02.50.19:777][397]LogModuleManager: Shutting down and abandoning module ViewportSnapping (960)
+[2023.11.03-02.50.19:777][397]LogModuleManager: Shutting down and abandoning module EditorWidgets (958)
+[2023.11.03-02.50.19:777][397]LogModuleManager: Shutting down and abandoning module ViewportInteraction (956)
+[2023.11.03-02.50.19:777][397]LogModuleManager: Shutting down and abandoning module ClothPainter (954)
+[2023.11.03-02.50.19:777][397]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (953)
+[2023.11.03-02.50.19:777][397]LogModuleManager: Shutting down and abandoning module WidgetRegistration (950)
+[2023.11.03-02.50.19:794][397]LogModuleManager: Shutting down and abandoning module LogVisualizer (948)
+[2023.11.03-02.50.19:794][397]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (946)
+[2023.11.03-02.50.19:794][397]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (944)
+[2023.11.03-02.50.19:794][397]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (943)
+[2023.11.03-02.50.19:805][397]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (941)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (938)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (936)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (934)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (932)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (930)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (928)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module AnimationSettings (926)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (924)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module CSVtoSVG (922)
+[2023.11.03-02.50.20:593][397]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (920)
+[2023.11.03-02.50.20:605][397]LogModuleManager: Shutting down and abandoning module EditorConfig (918)
+[2023.11.03-02.50.20:605][397]LogModuleManager: Shutting down and abandoning module EditorFramework (916)
+[2023.11.03-02.50.20:605][397]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (914)
+[2023.11.03-02.50.20:605][397]LogModuleManager: Shutting down and abandoning module TraceInsights (912)
+[2023.11.03-02.50.20:605][397]MemoryProfiler: Shutdown
+[2023.11.03-02.50.20:605][397]NetworkingProfiler: Shutdown
+[2023.11.03-02.50.20:605][397]LoadingProfiler: Shutdown
+[2023.11.03-02.50.20:605][397]TimingProfiler: Shutdown
+[2023.11.03-02.50.20:624][397]LogModuleManager: Shutting down and abandoning module TraceServices (911)
+[2023.11.03-02.50.20:635][397]LogModuleManager: Shutting down and abandoning module TraceAnalysis (910)
+[2023.11.03-02.50.20:635][397]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (906)
+[2023.11.03-02.50.20:635][397]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (905)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module InputBindingEditor (902)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module MergeActors (900)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (898)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module LocalizationService (897)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module HardwareTargeting (894)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (892)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module UndoHistory (890)
+[2023.11.03-02.50.20:636][397]LogModuleManager: Shutting down and abandoning module XmlParser (888)
+[2023.11.03-02.50.20:657][397]LogModuleManager: Shutting down and abandoning module Blutility (886)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (884)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (883)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (880)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (879)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module SettingsEditor (876)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module ProjectLauncher (874)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module SessionFrontend (872)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module ProfilerClient (870)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module DeviceManager (868)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module AutomationController (866)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module AutomationWindow (864)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module Layers (862)
+[2023.11.03-02.50.20:658][397]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (860)
+[2023.11.03-02.50.20:674][397]LogModuleManager: Shutting down and abandoning module DetailCustomizations (858)
+[2023.11.03-02.50.20:686][397]LogModuleManager: Shutting down and abandoning module PackagesDialog (856)
+[2023.11.03-02.50.20:686][397]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (854)
+[2023.11.03-02.50.20:686][397]LogModuleManager: Shutting down and abandoning module Persona (852)
+[2023.11.03-02.50.20:755][397]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (851)
+[2023.11.03-02.50.20:771][397]LogModuleManager: Shutting down and abandoning module Kismet (848)
+[2023.11.03-02.50.20:831][397]LogModuleManager: Shutting down and abandoning module KismetWidgets (847)
+[2023.11.03-02.50.20:832][397]LogModuleManager: Shutting down and abandoning module GraphEditor (844)
+[2023.11.03-02.50.20:863][397]LogModuleManager: Shutting down and abandoning module StructViewer (842)
+[2023.11.03-02.50.20:863][397]LogModuleManager: Shutting down and abandoning module ClassViewer (840)
+[2023.11.03-02.50.20:863][397]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (838)
+[2023.11.03-02.50.20:863][397]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (836)
+[2023.11.03-02.50.20:863][397]LogModuleManager: Shutting down and abandoning module SourceControlWindows (834)
+[2023.11.03-02.50.20:879][397]LogModuleManager: Shutting down and abandoning module OutputLog (832)
+[2023.11.03-02.50.20:880][397]LogModuleManager: Shutting down and abandoning module Documentation (830)
+[2023.11.03-02.50.20:880][397]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (828)
+[2023.11.03-02.50.20:880][397]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (826)
+[2023.11.03-02.50.20:880][397]LogModuleManager: Shutting down and abandoning module MovieScene (824)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (822)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (820)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (818)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module AudioMixer (817)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module AudioMixerCore (816)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module LauncherPlatform (812)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module AnalyticsET (810)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module PortalServices (808)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module PortalRpc (806)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module MessagingRpc (804)
+[2023.11.03-02.50.20:923][397]LogModuleManager: Shutting down and abandoning module AIModule (802)
+[2023.11.03-02.50.20:939][397]LogModuleManager: Shutting down and abandoning module GameplayDebugger (801)
+[2023.11.03-02.50.20:939][397]LogModuleManager: Shutting down and abandoning module AITestSuite (799)
+[2023.11.03-02.50.20:939][397]LogModuleManager: Shutting down and abandoning module NavigationSystem (797)
+[2023.11.03-02.50.20:939][397]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (794)
+[2023.11.03-02.50.20:940][397]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (792)
+[2023.11.03-02.50.20:940][397]LogModuleManager: Shutting down and abandoning module TypedElementFramework (790)
+[2023.11.03-02.50.20:940][397]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (788)
+[2023.11.03-02.50.20:940][397]LogModuleManager: Shutting down and abandoning module ProfilerService (786)
+[2023.11.03-02.50.21:057][397]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (784)
+[2023.11.03-02.50.21:057][397]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (782)
+[2023.11.03-02.50.21:057][397]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (780)
+[2023.11.03-02.50.21:058][397]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (778)
+[2023.11.03-02.50.21:070][397]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (776)
+[2023.11.03-02.50.21:112][397]LogModuleManager: Shutting down and abandoning module TakesCore (774)
+[2023.11.03-02.50.21:171][397]LogModuleManager: Shutting down and abandoning module MegascansPlugin (772)
+[2023.11.03-02.50.21:171][397]LogModuleManager: Shutting down and abandoning module Bridge (770)
+[2023.11.03-02.50.21:171][397]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (768)
+[2023.11.03-02.50.21:171][397]LogModuleManager: Shutting down and abandoning module MultiUserClient (766)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (764)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module ConcertSharedSlate (762)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (760)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module LightMixer (758)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (756)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (754)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (752)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module CollectionManager (751)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (746)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module InterchangeTests (744)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (742)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (740)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (738)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module UObjectPlugin (736)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (734)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (732)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module PluginUtils (730)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (728)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module GitSourceControl (726)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module DumpGPUServices (724)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (722)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (720)
+[2023.11.03-02.50.21:172][397]LogModuleManager: Shutting down and abandoning module MediaPlate (718)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (716)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module MediaCompositing (714)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ImgMedia (712)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module SynthesisEditor (710)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ResonanceAudio (708)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (706)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (704)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (702)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ModelingOperators (700)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (698)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ModelingComponents (696)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module GeometryFramework (695)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (692)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module MeshModelingTools (690)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (688)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InputDebugging (686)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module GooglePAD (684)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module DynamicMesh (682)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (680)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (678)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (676)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (674)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module AudioCapture (672)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (671)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (668)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module AssetTags (666)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (664)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module AppleImageUtils (662)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module AndroidPermission (660)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (658)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (656)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (654)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (652)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (650)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeExport (648)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeMessages (646)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module GLTFCore (644)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (642)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (640)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module InterchangeEditor (638)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (634)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (632)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module UVEditorTools (630)
+[2023.11.03-02.50.21:207][397]LogModuleManager: Shutting down and abandoning module UVEditor (628)
+[2023.11.03-02.50.21:243][397]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (626)
+[2023.11.03-02.50.21:243][397]LogModuleManager: Shutting down and abandoning module PluginBrowser (624)
+[2023.11.03-02.50.21:243][397]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (622)
+[2023.11.03-02.50.21:243][397]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (620)
+[2023.11.03-02.50.21:375][397]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (618)
+[2023.11.03-02.50.21:376][397]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (616)
+[2023.11.03-02.50.21:376][397]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (614)
+[2023.11.03-02.50.21:376][397]LogModuleManager: Shutting down and abandoning module EditorDebugTools (612)
+[2023.11.03-02.50.21:376][397]LogModuleManager: Shutting down and abandoning module CurveEditorTools (610)
+[2023.11.03-02.50.21:397][397]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (608)
+[2023.11.03-02.50.21:397][397]LogModuleManager: Shutting down and abandoning module CryptoKeys (606)
+[2023.11.03-02.50.21:397][397]LogModuleManager: Shutting down and abandoning module ChangelistReview (604)
+[2023.11.03-02.50.21:397][397]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (602)
+[2023.11.03-02.50.21:397][397]LogModuleManager: Shutting down and abandoning module TakeSequencer (600)
+[2023.11.03-02.50.21:397][397]LogModuleManager: Shutting down and abandoning module TakeMovieScene (598)
+[2023.11.03-02.50.21:397][397]LogModuleManager: Shutting down and abandoning module TemplateSequence (596)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (594)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module SequencerScripting (592)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module VariantManager (590)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (588)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (586)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module AlembicImporter (584)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module AlembicLibrary (583)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module GeometryCache (582)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (581)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module ControlRigSpline (576)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (574)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (572)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (570)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (568)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (566)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (564)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (562)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (560)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (558)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (556)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (554)
+[2023.11.03-02.50.21:502][397]LogOpenImageDenoise: OIDN shutting down
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module MeshLODToolset (552)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (550)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (548)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (546)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (544)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (542)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (540)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module LocalizableMessage (538)
+[2023.11.03-02.50.21:502][397]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (536)
+[2023.11.03-02.50.21:540][397]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (534)
+[2023.11.03-02.50.21:547][397]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (532)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (530)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (528)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (527)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (525)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (522)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module DataflowNodes (520)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (518)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module DataflowEditor (516)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (514)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module ChaosNiagara (512)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (510)
+[2023.11.03-02.50.21:548][397]LogModuleManager: Shutting down and abandoning module FractureEditor (508)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (506)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module BackChannel (504)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (502)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module AutomationUtils (500)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (498)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (496)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module Paper2DEditor (494)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (492)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module TraceUtilities (490)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (488)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (486)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module InputEditor (484)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (482)
+[2023.11.03-02.50.21:562][397]LogModuleManager: Shutting down and abandoning module BlueprintGraph (481)
+[2023.11.03-02.50.21:601][397]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (478)
+[2023.11.03-02.50.21:601][397]LogModuleManager: Shutting down and abandoning module ConcertServer (476)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module ConcertClient (474)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module ConcertTransport (473)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module Concert (470)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module SQLiteCore (468)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (466)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (464)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module AnimationSharing (462)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (460)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module GameplayCameras (458)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module Synthesis (456)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module SoundFields (454)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module SignificanceManager (452)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (450)
+[2023.11.03-02.50.21:641][397]LogModuleManager: Shutting down and abandoning module RigVM (448)
+[2023.11.03-02.50.21:703][397]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (446)
+[2023.11.03-02.50.21:703][397]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (444)
+[2023.11.03-02.50.21:703][397]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (442)
+[2023.11.03-02.50.21:703][397]LogModuleManager: Shutting down and abandoning module MetasoundEditor (440)
+[2023.11.03-02.50.21:703][397]LogModuleManager: Shutting down and abandoning module AudioWidgets (439)
+[2023.11.03-02.50.21:703][397]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (438)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (434)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module MetasoundEngine (432)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module WaveTable (431)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (429)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (426)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (424)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (422)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (420)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (418)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module CableComponent (414)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (412)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (411)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (408)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module InterchangePipelines (406)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module InterchangeImport (404)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (402)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module InterchangeNodes (400)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (398)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (396)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module FacialAnimation (394)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module DataValidation (392)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (390)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module TreeMap (389)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module ActorSequence (386)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (384)
+[2023.11.03-02.50.21:704][397]LogModuleManager: Shutting down and abandoning module TcpMessaging (382)
+[2023.11.03-02.50.21:805][397]LogModuleManager: Shutting down and abandoning module UdpMessaging (380)
+[2023.11.03-02.50.21:905][397]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (378)
+[2023.11.03-02.50.21:905][397]LogModuleManager: Shutting down and abandoning module IKRig (376)
+[2023.11.03-02.50.21:905][397]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (374)
+[2023.11.03-02.50.21:905][397]LogModuleManager: Shutting down and abandoning module ControlRig (372)
+[2023.11.03-02.50.21:905][397]LogModuleManager: Shutting down and abandoning module Constraints (371)
+[2023.11.03-02.50.21:905][397]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (368)
+[2023.11.03-02.50.21:905][397]LogModuleManager: Shutting down and abandoning module Niagara (366)
+[2023.11.03-02.50.21:958][397]LogModuleManager: Shutting down and abandoning module SignalProcessing (365)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module NiagaraEditor (363)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module ContentBrowser (362)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module ToolMenus (361)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module ContentBrowserData (359)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module NiagaraCore (354)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module AnimationData (352)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module StructUtils (350)
+[2023.11.03-02.50.21:968][397]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (348)
+[2023.11.03-02.50.22:067][397]LogModuleManager: Shutting down and abandoning module PBIK (346)
+[2023.11.03-02.50.22:091][397]LogModuleManager: Shutting down and abandoning module FullBodyIK (344)
+[2023.11.03-02.50.22:091][397]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (342)
+[2023.11.03-02.50.22:091][397]LogModuleManager: Shutting down and abandoning module TakeRecorder (341)
+[2023.11.03-02.50.22:121][397]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2023.11.03-02.50.22:164][397]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2023.11.03-02.50.22:164][397]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2023.11.03-02.50.22:164][397]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2023.11.03-02.50.22:164][397]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2023.11.03-02.50.22:164][397]LogModuleManager: Shutting down and abandoning module ChaosCaching (328)
+[2023.11.03-02.50.22:165][397]LogModuleManager: Shutting down and abandoning module LevelSequence (327)
+[2023.11.03-02.50.22:165][397]LogModuleManager: Shutting down and abandoning module Paper2D (324)
+[2023.11.03-02.50.22:165][397]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2023.11.03-02.50.22:165][397]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2023.11.03-02.50.22:241][397]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2023.11.03-02.50.22:264][397]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2023.11.03-02.50.22:264][397]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2023.11.03-02.50.22:273][397]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2023.11.03-02.50.22:273][397]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2023.11.03-02.50.22:293][397]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2023.11.03-02.50.22:322][397]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2023.11.03-02.50.22:322][397]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2023.11.03-02.50.22:322][397]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2023.11.03-02.50.22:322][397]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2023.11.03-02.50.22:322][397]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2023.11.03-02.50.22:338][397]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2023.11.03-02.50.22:338][397]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2023.11.03-02.50.22:338][397]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2023.11.03-02.50.22:338][397]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2023.11.03-02.50.22:417][397]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2023.11.03-02.50.22:417][397]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2023.11.03-02.50.22:479][397]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2023.11.03-02.50.22:479][397]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2023.11.03-02.50.22:521][397]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2023.11.03-02.50.22:521][397]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2023.11.03-02.50.22:521][397]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.11.03-02.50.22:521][397]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.11.03-02.50.22:673][397]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2023.11.03-02.50.22:673][397]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.11.03-02.50.22:700][397]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.11.03-02.50.22:700][397]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2023.11.03-02.50.22:702][397]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2023.11.03-02.50.22:736][397]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2023.11.03-02.50.22:736][397]LogModuleManager: Shutting down and abandoning module Core (244)
+[2023.11.03-02.50.22:736][397]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2023.11.03-02.50.22:736][397]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2023.11.03-02.50.22:757][397]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2023.11.03-02.50.22:776][397]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2023.11.03-02.50.22:913][397]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2023.11.03-02.50.22:914][397]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2023.11.03-02.50.22:927][397]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2023.11.03-02.50.22:936][397]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2023.11.03-02.50.22:950][397]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2023.11.03-02.50.22:961][397]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2023.11.03-02.50.22:961][397]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2023.11.03-02.50.22:961][397]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2023.11.03-02.50.22:961][397]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2023.11.03-02.50.22:961][397]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2023.11.03-02.50.22:997][397]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2023.11.03-02.50.23:044][397]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2023.11.03-02.50.23:058][397]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2023.11.03-02.50.23:077][397]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2023.11.03-02.50.23:088][397]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2023.11.03-02.50.23:088][397]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2023.11.03-02.50.23:088][397]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2023.11.03-02.50.23:103][397]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2023.11.03-02.50.23:156][397]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2023.11.03-02.50.23:185][397]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2023.11.03-02.50.23:201][397]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2023.11.03-02.50.23:226][397]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2023.11.03-02.50.23:235][397]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2023.11.03-02.50.23:235][397]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2023.11.03-02.50.23:238][397]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2023.11.03-02.50.23:238][397]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2023.11.03-02.50.23:257][397]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2023.11.03-02.50.23:281][397]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2023.11.03-02.50.23:297][397]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2023.11.03-02.50.23:297][397]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2023.11.03-02.50.23:297][397]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2023.11.03-02.50.23:297][397]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2023.11.03-02.50.23:309][397]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2023.11.03-02.50.23:325][397]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2023.11.03-02.50.23:325][397]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2023.11.03-02.50.23:325][397]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2023.11.03-02.50.23:325][397]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2023.11.03-02.50.23:325][397]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2023.11.03-02.50.23:344][397]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2023.11.03-02.50.23:344][397]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2023.11.03-02.50.23:366][397]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2023.11.03-02.50.23:366][397]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2023.11.03-02.50.23:371][397]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2023.11.03-02.50.23:387][397]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2023.11.03-02.50.23:387][397]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2023.11.03-02.50.23:387][397]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2023.11.03-02.50.23:387][397]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2023.11.03-02.50.23:388][397]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2023.11.03-02.50.23:388][397]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2023.11.03-02.50.23:388][397]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2023.11.03-02.50.23:388][397]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2023.11.03-02.50.23:403][397]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2023.11.03-02.50.23:403][397]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2023.11.03-02.50.23:403][397]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2023.11.03-02.50.23:429][397]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2023.11.03-02.50.23:429][397]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (122)
+[2023.11.03-02.50.23:444][397]RenderDocPlugin: plugin has been unloaded.
+[2023.11.03-02.50.23:444][397]LogModuleManager: Shutting down and abandoning module PixWinPlugin (120)
+[2023.11.03-02.50.23:457][397]LogModuleManager: Shutting down and abandoning module WmfMedia (118)
+[2023.11.03-02.50.23:503][397]LogModuleManager: Shutting down and abandoning module Media (117)
+[2023.11.03-02.50.23:505][397]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (114)
+[2023.11.03-02.50.23:513][397]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (112)
+[2023.11.03-02.50.23:513][397]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (110)
+[2023.11.03-02.50.23:513][397]LogModuleManager: Shutting down and abandoning module ChunkDownloader (108)
+[2023.11.03-02.50.23:532][397]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2023.11.03-02.50.23:532][397]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2023.11.03-02.50.23:559][397]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2023.11.03-02.50.23:625][397]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2023.11.03-02.50.23:640][397]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2023.11.03-02.50.23:708][397]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2023.11.03-02.50.23:708][397]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2023.11.03-02.50.23:709][397]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B51240D39-40F6-6B94-AEA2-3099C994C535%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=3fdee0ae4f733d26a3e5c782f5ffb189%7C2367ab2cc78948c19dddb85d7ad29653%7C9fb2b88f-5a54-45cc-b5b0-d1bf1d713b94&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.11.03-02.50.23:813][397]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2023.11.03-02.50.23:815][397]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2023.11.03-02.50.23:849][397]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2023.11.03-02.50.23:874][397]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2023.11.03-02.50.23:883][397]LogModuleManager: Shutting down and abandoning module VariantManagerContent (82)
+[2023.11.03-02.50.23:883][397]LogModuleManager: Shutting down and abandoning module GLTFExporter (80)
+[2023.11.03-02.50.23:883][397]LogModuleManager: Shutting down and abandoning module DatasmithContent (78)
+[2023.11.03-02.50.23:884][397]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2023.11.03-02.50.23:884][397]LogModuleManager: Shutting down and abandoning module AISupportModule (74)
+[2023.11.03-02.50.23:884][397]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (72)
+[2023.11.03-02.50.23:884][397]LogModuleManager: Shutting down and abandoning module NiagaraShader (70)
+[2023.11.03-02.50.23:884][397]LogModuleManager: Shutting down and abandoning module ACLPlugin (68)
+[2023.11.03-02.50.23:884][397]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.11.03-02.50.23:931][397]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2023.11.03-02.50.23:931][397]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2023.11.03-02.50.24:055][397]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2023.11.03-02.50.24:097][397]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2023.11.03-02.50.24:119][397]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.11.03-02.50.24:119][397]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.11.03-02.50.24:132][397]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.11.03-02.50.24:132][397]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.11.03-02.50.24:132][397]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2023.11.03-02.50.24:151][397]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2023.11.03-02.50.24:193][397]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2023.11.03-02.50.24:241][397]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2023.11.03-02.50.24:309][397]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2023.11.03-02.50.24:328][397]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2023.11.03-02.50.24:335][397]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2023.11.03-02.50.24:335][397]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2023.11.03-02.50.24:335][397]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.11.03-02.50.24:335][397]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2023.11.03-02.50.24:359][397]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.11.03-02.50.24:359][397]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.11.03-02.50.24:449][397]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.11.03-02.50.24:478][397]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.11.03-02.50.24:478][397]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.11.03-02.50.24:512][397]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.11.03-02.50.24:653][397]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.11.03-02.50.24:653][397]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.11.03-02.50.24:705][397]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.11.03-02.50.24:705][397]LogPakFile: Destroying PakPlatformFile
+[2023.11.03-02.50.24:748][397]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.11.03-02.50.24:748][397]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.11.03-02.50.24:790][397]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.11.03-02.50.24:790][397]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.11.03-02.50.24:813][397]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.11.03-02.50.25:658][397]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.11.03-02.50.25:815][397]LogExit: Exiting.
+[2023.11.03-02.50.25:828][397]Log file closed, 11/02/23 19:50:25
