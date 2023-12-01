@@ -16894,3 +16894,112 @@ Make sure 'Red_C' has been compiled for  Drain Stamina
 [2023.12.01-05.05.44:165][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.12.01-05.07.03:561][844]LogSlate: Window 'Content Browser' being destroyed
 [2023.12.01-05.07.03:565][844]LogSlate: Window 'Content Browser' being destroyed
+[2023.12.01-05.12.05:603][781]LogViewport: Scene viewport resized to 1156x465, mode Windowed.
+[2023.12.01-05.12.05:720][781]LogViewport: Scene viewport resized to 925x372, mode Windowed.
+[2023.12.01-05.12.06:154][781]LogViewport: Scene viewport resized to 1550x497, mode Windowed.
+[2023.12.01-05.12.08:455][ 47]LogViewport: Scene viewport resized to 1550x500, mode Windowed.
+[2023.12.01-05.12.08:478][ 48]LogViewport: Scene viewport resized to 1550x506, mode Windowed.
+[2023.12.01-05.12.08:502][ 49]LogViewport: Scene viewport resized to 1550x513, mode Windowed.
+[2023.12.01-05.12.08:526][ 50]LogViewport: Scene viewport resized to 1550x524, mode Windowed.
+[2023.12.01-05.12.08:555][ 51]LogViewport: Scene viewport resized to 1550x542, mode Windowed.
+[2023.12.01-05.12.08:578][ 52]LogViewport: Scene viewport resized to 1550x565, mode Windowed.
+[2023.12.01-05.12.08:604][ 53]LogViewport: Scene viewport resized to 1550x592, mode Windowed.
+[2023.12.01-05.12.08:628][ 54]LogViewport: Scene viewport resized to 1550x616, mode Windowed.
+[2023.12.01-05.12.08:655][ 55]LogViewport: Scene viewport resized to 1550x632, mode Windowed.
+[2023.12.01-05.12.08:685][ 56]LogViewport: Scene viewport resized to 1550x647, mode Windowed.
+[2023.12.01-05.12.08:712][ 57]LogViewport: Scene viewport resized to 1550x674, mode Windowed.
+[2023.12.01-05.12.08:739][ 58]LogViewport: Scene viewport resized to 1550x706, mode Windowed.
+[2023.12.01-05.12.08:766][ 59]LogViewport: Scene viewport resized to 1550x728, mode Windowed.
+[2023.12.01-05.12.08:795][ 60]LogViewport: Scene viewport resized to 1550x739, mode Windowed.
+[2023.12.01-05.12.08:820][ 61]LogViewport: Scene viewport resized to 1550x742, mode Windowed.
+[2023.12.01-05.12.09:007][ 81]LogViewport: Scene viewport resized to 1550x740, mode Windowed.
+[2023.12.01-05.12.09:031][ 82]LogViewport: Scene viewport resized to 1550x735, mode Windowed.
+[2023.12.01-05.12.09:057][ 83]LogViewport: Scene viewport resized to 1550x731, mode Windowed.
+[2023.12.01-05.12.09:083][ 84]LogViewport: Scene viewport resized to 1550x720, mode Windowed.
+[2023.12.01-05.12.09:112][ 85]LogViewport: Scene viewport resized to 1550x704, mode Windowed.
+[2023.12.01-05.12.09:139][ 86]LogViewport: Scene viewport resized to 1550x689, mode Windowed.
+[2023.12.01-05.12.09:164][ 87]LogViewport: Scene viewport resized to 1550x678, mode Windowed.
+[2023.12.01-05.12.09:190][ 88]LogViewport: Scene viewport resized to 1550x672, mode Windowed.
+[2023.12.01-05.12.09:214][ 89]LogViewport: Scene viewport resized to 1550x670, mode Windowed.
+[2023.12.01-05.12.09:241][ 90]LogViewport: Scene viewport resized to 1550x667, mode Windowed.
+[2023.12.01-05.12.09:267][ 91]LogViewport: Scene viewport resized to 1550x666, mode Windowed.
+[2023.12.01-05.15.14:735][580]LogViewport: Scene viewport resized to 925x499, mode Windowed.
+[2023.12.01-05.15.15:632][580]LogViewport: Scene viewport resized to 1157x624, mode Windowed.
+[2023.12.01-05.15.21:047][625]LogViewport: Scene viewport resized to 2067x899, mode Windowed.
+[2023.12.01-05.15.41:183][849]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.12.01-05.15.41:183][849]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.12.01-05.15.41:185][849]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Forest.Forest:PersistentLevel.PlayerStart_1
+[2023.12.01-05.15.41:185][849]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.12.01-05.15.41:185][849]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Forest.Forest:PersistentLevel.PlayerStart_1
+[2023.12.01-05.15.41:185][849]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.12.01-05.15.41:203][849]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.12.01-05.15.50:321][867]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.12.01-05.15.53:740][221]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.12.01-05.16.40:804][ 18]Cmd: DELETE
+[2023.12.01-05.16.40:804][ 18]Cmd: ACTOR DELETE
+[2023.12.01-05.16.40:806][ 18]LogEditorActor: Deleted Actor: PlayerStart
+[2023.12.01-05.16.40:835][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.12.01-05.16.40:854][ 18]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2023.12.01-05.17.06:218][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.01-05.17.06:221][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/haron/Documents/Unreal Projects/temp/Saved/Autosaves/Game/Forest_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.01-05.17.06:226][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Forest_Auto2
+[2023.12.01-05.17.06:227][993]LogSavePackage: Moving 'C:/Users/haron/Documents/Unreal Projects/temp/Saved/Forest_Auto2B1FA70F941B98F832D2BEA926D0A8E90.tmp' to 'C:/Users/haron/Documents/Unreal Projects/temp/Saved/Autosaves/Game/Forest_Auto2.umap'
+[2023.12.01-05.17.06:228][993]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/haron/Documents/Unreal Projects/temp/Saved/Autosaves/Game/Forest_Auto2.umap is in the /Temp path, will not scan.
+[2023.12.01-05.17.06:228][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Forest' took 0.024
+[2023.12.01-05.17.06:228][993]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.12.01-05.17.16:100][125]LogViewport: Scene viewport resized to 2067x897, mode Windowed.
+[2023.12.01-05.17.16:125][126]LogViewport: Scene viewport resized to 2067x889, mode Windowed.
+[2023.12.01-05.17.16:153][127]LogViewport: Scene viewport resized to 2067x867, mode Windowed.
+[2023.12.01-05.17.16:177][128]LogViewport: Scene viewport resized to 2067x818, mode Windowed.
+[2023.12.01-05.17.16:208][129]LogViewport: Scene viewport resized to 2067x755, mode Windowed.
+[2023.12.01-05.17.16:234][130]LogViewport: Scene viewport resized to 2067x700, mode Windowed.
+[2023.12.01-05.17.16:262][131]LogViewport: Scene viewport resized to 2067x650, mode Windowed.
+[2023.12.01-05.17.16:289][132]LogViewport: Scene viewport resized to 2067x617, mode Windowed.
+[2023.12.01-05.17.16:315][133]LogViewport: Scene viewport resized to 2067x588, mode Windowed.
+[2023.12.01-05.17.16:342][134]LogViewport: Scene viewport resized to 2067x549, mode Windowed.
+[2023.12.01-05.17.16:369][135]LogViewport: Scene viewport resized to 2067x507, mode Windowed.
+[2023.12.01-05.17.16:396][136]LogViewport: Scene viewport resized to 2067x462, mode Windowed.
+[2023.12.01-05.17.16:422][137]LogViewport: Scene viewport resized to 2067x431, mode Windowed.
+[2023.12.01-05.17.16:446][138]LogViewport: Scene viewport resized to 2067x410, mode Windowed.
+[2023.12.01-05.17.16:471][139]LogViewport: Scene viewport resized to 2067x393, mode Windowed.
+[2023.12.01-05.17.16:495][140]LogViewport: Scene viewport resized to 2067x379, mode Windowed.
+[2023.12.01-05.17.16:517][141]LogViewport: Scene viewport resized to 2067x373, mode Windowed.
+[2023.12.01-05.17.16:541][142]LogViewport: Scene viewport resized to 2067x371, mode Windowed.
+[2023.12.01-05.17.19:796][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprints/Player/RedToEvil.RedToEvil
+[2023.12.01-05.17.19:797][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.17.19:797][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.17.25:197][999]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Blueprints/Animation/Transform.Transform
+[2023.12.01-05.17.25:197][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.17.25:197][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.17.45:887][626]LogViewport: Scene viewport resized to 2067x374, mode Windowed.
+[2023.12.01-05.17.45:911][627]LogViewport: Scene viewport resized to 2067x381, mode Windowed.
+[2023.12.01-05.17.45:933][628]LogViewport: Scene viewport resized to 2067x390, mode Windowed.
+[2023.12.01-05.17.45:957][629]LogViewport: Scene viewport resized to 2067x401, mode Windowed.
+[2023.12.01-05.17.45:982][630]LogViewport: Scene viewport resized to 2067x411, mode Windowed.
+[2023.12.01-05.17.46:006][631]LogViewport: Scene viewport resized to 2067x418, mode Windowed.
+[2023.12.01-05.17.46:031][632]LogViewport: Scene viewport resized to 2067x429, mode Windowed.
+[2023.12.01-05.17.46:057][633]LogViewport: Scene viewport resized to 2067x443, mode Windowed.
+[2023.12.01-05.17.46:079][634]LogViewport: Scene viewport resized to 2067x459, mode Windowed.
+[2023.12.01-05.17.46:104][635]LogViewport: Scene viewport resized to 2067x483, mode Windowed.
+[2023.12.01-05.17.46:131][636]LogViewport: Scene viewport resized to 2067x517, mode Windowed.
+[2023.12.01-05.17.46:156][637]LogViewport: Scene viewport resized to 2067x553, mode Windowed.
+[2023.12.01-05.17.46:181][638]LogViewport: Scene viewport resized to 2067x607, mode Windowed.
+[2023.12.01-05.17.46:206][639]LogViewport: Scene viewport resized to 2067x668, mode Windowed.
+[2023.12.01-05.17.46:234][640]LogViewport: Scene viewport resized to 2067x741, mode Windowed.
+[2023.12.01-05.17.46:263][641]LogViewport: Scene viewport resized to 2067x784, mode Windowed.
+[2023.12.01-05.17.46:291][642]LogViewport: Scene viewport resized to 2067x797, mode Windowed.
+[2023.12.01-05.20.42:352][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.12.01-05.20.45:290][ 72]LogSlate: Window 'Save Content' being destroyed
+[2023.12.01-05.20.45:298][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.01-05.20.45:320][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Forest" FILE="C:/Users/haron/Documents/Unreal Projects/temp/Content/Forest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.01-05.20.45:372][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.01-05.20.45:379][ 72]LogSavePackage: Moving output files for package: /Game/Forest
+[2023.12.01-05.20.45:379][ 72]LogSavePackage: Moving 'C:/Users/haron/Documents/Unreal Projects/temp/Saved/Forest40899CEF42C162AE1D5AB6BF6B9B1602.tmp' to 'C:/Users/haron/Documents/Unreal Projects/temp/Content/Forest.umap'
+[2023.12.01-05.20.45:388][ 72]LogFileHelpers: Saving map 'Forest' took 0.069
+[2023.12.01-05.20.45:388][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Blueprints/UI-HUD/06" FILE="C:/Users/haron/Documents/Unreal Projects/temp/Content/Character/Blueprints/UI-HUD/06.uasset" SILENT=true
+[2023.12.01-05.20.45:392][ 72]LogSavePackage: Moving output files for package: /Game/Character/Blueprints/UI-HUD/06
+[2023.12.01-05.20.45:392][ 72]LogSavePackage: Moving 'C:/Users/haron/Documents/Unreal Projects/temp/Saved/06E159B4464733423A34145F8AC7E61814.tmp' to 'C:/Users/haron/Documents/Unreal Projects/temp/Content/Character/Blueprints/UI-HUD/06.uasset'
+[2023.12.01-05.20.45:403][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.18 sec)
+[2023.12.01-05.20.45:405][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.01-05.20.45:405][ 72]LogContentValidation: Display: Validating /Script/Engine.World /Game/Forest.Forest
+[2023.12.01-05.20.45:405][ 72]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Character/Blueprints/UI-HUD/06.06
