@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/BP_DoorRequiresKey.uasset",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/BP_caveDoor.uasset",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/BP_caveKey.uasset",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Cave.umap",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/BP_Key.uasset",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Forest.umap",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/BP_forestKey.uasset",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/BP_forestDoor.uasset",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/doorBreaksDown.uasset",
+				"C:/Users/cruze/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/doorBreaks.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/cruze/OneDrive/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/caveDoor.uasset",
 				"C:/Users/cruze/OneDrive/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/caveKey.uasset",
 				"C:/Users/cruze/OneDrive/Documents/Unreal Projects/362Project/Content/Sprites/Asset_Pack/_PNG/KeyAndDoor/caveKey_Sprite.uasset",
